@@ -71,7 +71,7 @@ public class OpenFitService extends Service {
     private boolean reconnecting = false;
     private boolean isStopping = false;
     private boolean isFinding = false;
-    private boolean isPremium = false;
+    private boolean isPremium = true;
     private boolean isGpsAllowed = false;
     private boolean locationForWeather = true;
     private boolean locationForExercise = false;
