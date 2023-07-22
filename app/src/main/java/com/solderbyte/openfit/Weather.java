@@ -14,7 +14,7 @@ import android.util.Log;
 public class Weather {
     private static final String LOG_TAG = "OpenFit:Weather";
 
-    private static String APIKEY = "APPID=2022a7ed0f5215c3ecc7f5e683796f2d";
+    private static String APIKEY = "2022a7ed0f5215c3ecc7f5e683796f2d";
     private static String APIURL = "http://api.openweathermap.org/data/2.5/weather";
     private static String QUERY = "?";
     private static String AMP = "&";
